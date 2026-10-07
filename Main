@@ -77,7 +77,7 @@ public class Main {
                 
                 System.out.print("4. Jumlah Review Hari Ini   : ");
                 jumlahRiview = scanner.nextInt();
-                System.out.print("Total Bintang Hari Ini : ");
+                System.out.print("Total Bintang Pada Google : ");
                 jumlahBintang = scanner.nextDouble();
                 System.out.print("Total Keseluruhan Review : ");
                 totalKeseluruhanRiview = scanner.nextInt();
